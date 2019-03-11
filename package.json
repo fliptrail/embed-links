@@ -1,4 +1,10 @@
 {
     "name": "@fliptrail/embed-links",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "index.js",
+    "devDependencies": {
+        "eslint": "^5.15.1",
+        "eslint-config-google": "^0.12.0"
+    }
 }
