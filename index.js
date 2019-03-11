@@ -1,1 +1,1 @@
-import './twitterEmbed'
+import './twitterEmbed';
